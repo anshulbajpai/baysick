@@ -5,3 +5,7 @@ dist
 .classpath
 .manager
 .settings
+.gradle/
+.idea/
+baysick.iml
+out
